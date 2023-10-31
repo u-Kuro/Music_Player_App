@@ -1,0 +1,23 @@
+/resources/music/images/*
+/resources/music/lyrics/*
+/resources/music/songs/*
+
+/out/production/Music Player App/music/images/*
+/out/production/Music Player App/music/lyrics/*
+/out/production/Music Player App/music/songs/*
+
+/One Click App Here/music/images/*
+/One Click App Here/music/lyrics/*
+/One Click App Here/music/songs/*
+
+!/resources/music/images/.gitkeep
+!/resources/music/lyrics/.gitkeep
+!/resources/music/songs/.gitkeep
+
+!/out/production/Music Player App/music/images/.gitkeep
+!/out/production/Music Player App/music/lyrics/.gitkeep
+!/out/production/Music Player App/music/songs/.gitkeep
+
+!/One Click App Here/music/images/.gitkeep
+!/One Click App Here/music/lyrics/.gitkeep
+!/One Click App Here/music/songs/.gitkeep
